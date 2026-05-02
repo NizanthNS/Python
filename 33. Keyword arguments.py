@@ -16,5 +16,5 @@
 def get_phone(country_code, area_code, first, last):
     return f"{country_code}-{area_code}-{first}-{last}"
 
-phone_number = get_phone(country_code = "91", area_code = "88", first = "0736", last = "0610")
+phone_number = get_phone(country_code = "91", area_code = "77", first = "0736", last = "7710")
 print(phone_number)
